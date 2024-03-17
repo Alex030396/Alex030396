@@ -19,7 +19,9 @@
 <br>
 <br>
 <p>Herramientas de usa CSS y HTML.</p>
-<a href="https://alex030396.github.io/Primer-proyecto-web.github.io/">Primer-Proyecto</a> 
+<p><strong>Pagina Web : </strong><a href="https://alex030396.github.io/Primer-proyecto-web.github.io/">Desarrollador Web</a> </p>
+<p><strong>Repositorio : </strong><a href="https://github.com/Alex030396/Primer-proyecto-web.github.io">Primer-Proyecto</a></p>
+
 <br>
 <br>
 
