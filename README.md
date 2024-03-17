@@ -18,11 +18,24 @@
 <h2 align="center">Proyecto numero 1</h2> <img src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20154938.png" alt="alex" align="right">
 <br>
 <br>
-<p>Herramientas de usa CSS y HTML.</p>
+<p>Herramientas de uso CSS y HTML.</p>
 <p><strong>Pagina Web : </strong><a href="https://alex030396.github.io/Primer-proyecto-web.github.io/">Desarrollador Web</a> </p>
 <p><strong>Repositorio : </strong><a href="https://github.com/Alex030396/Primer-proyecto-web.github.io">Primer-Proyecto</a></p>
 
 <br>
 <br>
 
-<img src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20134144.png" alt="alex" width="330" height="150">|<img  src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20153604.png" alt="alex" width="330" height="150">|<img  src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20153616.png" alt="alex1" width="330" height="150"> 
+<img src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20134144.png" alt="alex" width="33%">|<img  src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20153604.png" alt="alex" width="33%" >|<img  src="https://github.com/Alex030396/Primer-proyecto-web/raw/main/Captura%20de%20pantalla%202024-03-17%20153616.png" alt="alex1" width="33%" > 
+
+<h2 align="center">Proyecto numero 2</h2> <img src="https://github.com/Alex030396/Segundo-Proyecto/raw/main/img/Uso.png" alt="alex" align="right">
+<br>
+<br>
+<p>Herramientas de uso CSS y HTML.</p>
+<p><strong>Pagina Web : </strong><a href="https://alex030396.github.io/Segundo-Proyecto/">Front End Store</a> </p>
+<p><strong>Repositorio : </strong><a href="https://github.com/Alex030396/Segundo-Proyecto">Segundo-Proyecto</a></p>
+
+<br>
+<br>
+
+<img src="https://github.com/Alex030396/Segundo-Proyecto/raw/main/img/Portada.png" alt="alex" width="33%">|<img  src="https://github.com/Alex030396/Segundo-Proyecto/raw/main/img/Portada_baja.png" alt="alex" width="33%">|<img  src="https://github.com/Alex030396/Segundo-Proyecto/raw/main/img/Nosotros.png" alt="alex1" width="33%">|<img  src="https://github.com/Alex030396/Segundo-Proyecto/raw/main/img/Nosotros.png" alt="alex1" width="33%"> 
+ 
